@@ -1,4 +1,4 @@
 # Massao
-Hobby: 
-- tamboreu
-- pescar
+Hobby - tamboreu
+Frango
+pesca
