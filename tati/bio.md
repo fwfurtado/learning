@@ -1,4 +1,4 @@
 # Tatiana
-Para de ser *BOCO*
+Para de ser *BOCÓ*
 
 gosta de tocar taiko!
